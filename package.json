@@ -1,0 +1,23 @@
+{
+  "name": "web-scraper",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wilsonx2rt/node-web-scraper.git"
+  },
+  "author": "Stewart Wilson",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wilsonx2rt/node-web-scraper/issues"
+  },
+  "homepage": "https://github.com/wilsonx2rt/node-web-scraper#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.87.0"
+  }
+}
